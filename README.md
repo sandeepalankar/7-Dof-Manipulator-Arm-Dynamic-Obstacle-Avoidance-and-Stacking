@@ -1,4 +1,4 @@
-# MEAM-520-Final-Project
+# Franka Emika Panda Arm Pick-and-Place Challenge
 
 ## Goal
 In this project, we intend to synthesize the concepts we have learned throughout the course of the semester to enable the Franka Panda robot arm to respond to static and dynamic obstacles in a real-world environment. This process will involve writing new code and optimizing pre-existing code to allow for efficient operation of the robot arm while additionally ensuring that our code is robust enough to adapt to hyperparameter changes throughout our testing and competition process. Physically, this will entail facilitating consistent vertical stacking of the static and dynamic blocks despite the variable locations of these objects in 3D space. 
